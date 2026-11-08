@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/deepset-ai/haystack-integrations/commit/d96d7d38dffe78f17decb98ffb2e40104a6ec476",
       "git:hexsha": "d96d7d38dffe78f17decb98ffb2e40104a6ec476",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/deepset-ai/haystack-integrations/commit/dd61f8e576c1ecbadc8ab8b3e9953dff511b47aa",
